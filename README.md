@@ -22,14 +22,11 @@ Tools & Software
 - **Remote Sensing Data** – satellite imagery and ancillary datasets  
 
 
-
-📂 Repository Contents
-| File/Folder | Description |
-|--------------|-------------|
+Repository Contents
 | `Manuscript.pdf` | Full research paper detailing the methodology, results, and conclusions |
 | `Presentation.pdf` | PowerPoint slides prepared for conference presentation |
 | `Certificate.pdf` | Certificate of presentation (First Author) |
-| `Figures/`  | Maps and images used in the study |
+
 
 
 
