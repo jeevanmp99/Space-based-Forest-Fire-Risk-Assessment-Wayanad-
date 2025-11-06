@@ -15,12 +15,6 @@ Tools & Software
 - **Google Earth Pro** – for visual verification and mapping  
 - **Remote Sensing Data** – satellite imagery and ancillary datasets  
 
-Repository Contents
-| `Manuscript.pdf` | Full research paper detailing the methodology, results, and conclusions |
-| `Presentation.pdf` | PowerPoint slides prepared for conference presentation |
-| `Certificate.pdf` | Certificate of presentation (First Author) |
-
-
 Methodology Summary
 1. **Data Collection:** Satellite images and ancillary data (elevation, slope, TWI etc.)  
 2. **Data Processing:** Preparation of thematic layers (TWI, slope, aspect, distance from road/settlement)  
