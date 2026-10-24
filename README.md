@@ -68,7 +68,7 @@ The analysis integrates three categories of spatial conditioning parameters:
 ## ⚙️ Analytical Methodology
 
 <p align="center">
-  <img src="assets/Fig%201.Flow%20Chart%20of%20Methodology.jpg" alt="Fig 1. Flow Chart of Methodology" width="90%">
+  <img src="assets/Fig%201.Flow%20Chart%20of%20Methodology.png" alt="Fig 1. Flow Chart of Methodology" width="90%">
 </p>
 
 The spatial probability of fire occurrence was modeled using the **Frequency Ratio (FR)** bivariate probabilistic approach:
